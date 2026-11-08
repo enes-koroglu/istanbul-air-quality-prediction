@@ -1,4 +1,6 @@
-pandas==2.2.3
-numpy==2.4.6
-scikit-learn==1.6.1
-matplotlib
+Python: 3.13.18 (main, Oct 26 2026, 15:28:15) [GCC 13.3.0]
+Pandas: 2.2.3
+NumPy: 2.4.6
+Scikit-learn: 1.6.1
+Random seed: 42
+Matplotlib: 3.10.0
